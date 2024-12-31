@@ -1,0 +1,15 @@
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\bin\Debug\net6.0\Ewald.exe
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\bin\Debug\net6.0\Ewald.deps.json
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\bin\Debug\net6.0\Ewald.runtimeconfig.json
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\bin\Debug\net6.0\Ewald.dll
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\bin\Debug\net6.0\Ewald.pdb
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\Ewald.csproj.AssemblyReference.cache
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\Ewald.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\Ewald.AssemblyInfoInputs.cache
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\Ewald.AssemblyInfo.cs
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\Ewald.csproj.CoreCompileInputs.cache
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\Ewald.dll
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\refint\Ewald.dll
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\Ewald.pdb
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\Ewald.genruntimeconfig.cache
+D:\Egzamin inf.04\INF.04 Czerwiec 2023 moblina\Aplikacja konsolowa\Ewald\Ewald\obj\Debug\net6.0\ref\Ewald.dll
